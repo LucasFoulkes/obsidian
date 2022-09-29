@@ -4,7 +4,7 @@
 
 - Addon for Obsidian to search in like google
 
-### Addon/Pluggin for Obsidian for cloud storage backup 🚧
+### Addon/Pluggin for Obsidian for cloud storage backup ¯\_(ツ)_/¯
 - Obsidian Github kinda does this. 
 - ==Uploading and updating should be automated==  
 
