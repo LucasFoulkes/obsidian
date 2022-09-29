@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Circuits Simulators.md",
+            "file": "Host a Server Online.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Circuits Simulators.md",
+                "file": "Host a Server Online.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Circuits Simulators.md",
+                "file": "Host a Server Online.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Circuits Simulators.md"
+                "file": "Host a Server Online.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e37b3cac3b6fe648",
+  "active": "8fcfe21dad4354e6",
   "lastOpenFiles": [
+    "Machine Learning algorithms in python.md",
+    "Better Readme.md",
+    "Circuits Simulators.md",
     "Online Cloud Storage.md",
     "Oneshape.md",
     "Circuit Design (PCB).md",
     "Obsidian.md",
     "Pasted image 20220928225414.png",
     "Misc Ideas.md",
-    "Circuits Simulators.md",
-    "P5.js.md",
-    "Neovim.md",
-    "Venv.md"
+    "P5.js.md"
   ]
 }
