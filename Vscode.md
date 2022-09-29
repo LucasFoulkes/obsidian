@@ -1,0 +1,35 @@
+## Extensions
+- live server 👍
+- github copilot 👍
+- prettier 👍
+- remote ssh
+- git lens
+- better comments
+- es lint
+- material icon theme
+- bracket pair colorizer
+- peacock
+- colorize
+- css peek
+- git history
+- polacode
+- excel viewer
+- markdown lint
+- javascript debbuger
+- docker explorer
+- remote ssh
+- remote containers
+- remote wsl
+- settings sync
+- code runner
+- regex previewer
+- vscode icons extension
+- python extension
+- docker extension
+- javascript es6 code snippets
+- icons font
+- html css support
+- tabnine
+- sonar lint
+- vim , add shortcut to get out of vim
+- rainbow indent 👍

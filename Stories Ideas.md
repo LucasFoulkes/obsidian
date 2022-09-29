@@ -1,0 +1,2 @@
+- the future ends up in medieval society , drones/dragons, prompt/engineering.
+- the way prompt engenieering became spellcasting

@@ -1,0 +1,14 @@
+## Free
+- dropbox
+- microsoft onedrive
+- Idrive
+- google drive
+- pcloud
+- sync.com
+- icedrive
+- mega
+- mediafire
+- degoo
+- blomp
+- icedrive
+- 
