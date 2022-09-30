@@ -1,7 +1,15 @@
-- Back4app (Baas)
+[source](https://github.com/ripienaar/free-for-dev#apis-data-and-ml)
+- Alwaysdata
+- backendless
+- **Back4app (Baas)**
 	- free tier available
-- Elastic Beanstalk (AWS)
-		- free of charge , you pay for AWS resources EC2 and S3
+- AWS free tier 
+- Amazon S3
+- Microsoft Azure
+- Oracle Cloud
+- IBC Cloud
+- **Elastic Beanstalk (AWS)**
+	- free of charge , you pay for AWS resources EC2 and S3
 - Google App Engine (Paas)
 	- free quota
 - Digital Ocean 
