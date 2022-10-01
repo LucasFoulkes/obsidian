@@ -1,4 +1,10 @@
 [
   "obsidian-emoji-toolbar",
-  "obsidian-git"
+  "obsidian-git",
+  "calendar",
+  "obsidian-kanban",
+  "dataview",
+  "cm-editor-syntax-highlight-obsidian",
+  "readwise-official",
+  "templater-obsidian"
 ]

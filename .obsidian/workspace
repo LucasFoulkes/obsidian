@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8fcfe21dad4354e6",
+        "id": "72e23cd11bb9b6ac",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Circuit Design (PCB).md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Circuit Design (PCB).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Circuit Design (PCB).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,29 +110,40 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Circuit Design (PCB).md"
-              }
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "dff3d61c22af5056",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "125ccac29006edcc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "8fcfe21dad4354e6",
+  "active": "e37b3cac3b6fe648",
   "lastOpenFiles": [
     "Obsidian.md",
+    "Templates/TODO.md",
+    "Templates.md",
     "Circuit Design (PCB).md",
     "Circuits Simulators.md",
     "Host a Server Online.md",
     "Better Readme.md",
     "Machine Learning algorithms in python.md",
     "Online Cloud Storage.md",
-    "Oneshape.md",
-    "Pasted image 20220928225414.png",
-    "Misc Ideas.md"
+    "Oneshape.md"
   ]
 }
