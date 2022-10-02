@@ -1,5 +1,3 @@
-- dropbox
-- It syncs with windows
 - Idrive
 - pcloud
 - sync.com
@@ -9,7 +7,12 @@
 - degoo
 - blomp
 - icedrive
+
 ### Onedrive
-- 5g free
+- 5gb free
+
 ### Google drive
-- 15g free 
+- 15gb free 
+
+### Dropbox
+- 2gb free
