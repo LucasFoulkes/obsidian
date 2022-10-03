@@ -1,3 +1,4 @@
+# Software
 - Addon for Obsidian to instert current date
 
 - Addon for Obsidian to autocomplete like in github copiliot
@@ -9,3 +10,6 @@
 - ==Uploading and updating should be automated==  
 
 ### Cloud computer with gpu
+# Hardware 
+### Early Lanslide Detection 
+https://hackaday.io/project/187007-diy-landslide-warning-system
