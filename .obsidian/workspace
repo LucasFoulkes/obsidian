@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Circuits Simulators.md",
+            "file": "Web Design.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "drop",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Circuits Simulators.md",
+                "file": "Web Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Circuits Simulators.md",
+                "file": "Web Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Circuits Simulators.md"
+                "file": "Web Design.md"
               }
             }
           }
@@ -143,15 +143,15 @@
   },
   "active": "72e23cd11bb9b6ac",
   "lastOpenFiles": [
+    "Vscode.md",
+    "Web Design.md",
+    "Circuits Simulators.md",
     "Circuit Design (PCB).md",
     "Game Engines.md",
     "Better Readme.md",
-    "Circuits Simulators.md",
     "Misc Ideas.md",
     "Piracy.md",
     "Online Cloud Storage.md",
-    "Obsidian.md",
-    "Templates/TODO.md",
-    "Templates.md"
+    "Obsidian.md"
   ]
 }
