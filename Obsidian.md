@@ -9,3 +9,4 @@
 - readwise
 - dropbox
 - templater
+- Day Planner

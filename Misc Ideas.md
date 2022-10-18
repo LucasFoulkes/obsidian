@@ -13,3 +13,7 @@
 # Hardware 
 ## Early Lanslide Detection 
 https://hackaday.io/project/187007-diy-landslide-warning-system
+
+# Stories 
+- prompt engineering, automatic coding, powerful AI, thru this technologies we find out knowing the name of things gives you their power.
+- 
