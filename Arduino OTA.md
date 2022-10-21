@@ -38,7 +38,7 @@ void loop() {
 
 ```
 for some reason this did work , used usb to ttl module
-2.  Enter the followin [[AT commands]]
+	1.  Enter the followin [[AT commands]], remember to use 38400 baud
 ```
 AT+ORGL
 AT+ROLE=0
@@ -57,6 +57,14 @@ AT+INIT
 - New computer does not detect it , hc10 being a BLE device might be the reason
 - hc10 even more of a bitch to detect, fuck.
 - fuck hc10 and hc05, very much lets use ESP
+- 20/10/22 trying again for last fucking time I guess
+- simple recieving data 
+1. fucking ubuntu binding
+	1.  find out the mac address of the bluetooth device
+	2. use ``` sudo rfcomm 0 [MAC ADDRESS] 1```
+	3. use cutecom to connect it, is a bit hacky honestly
+- simple data comunication did fucking work somehow yay
+```
 ## Using HM10
 ## Using ESP
 - ### Esp32
