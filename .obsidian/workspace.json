@@ -4,127 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "80b058c414bd81d8",
+        "id": "a010f404b1b4a07e",
         "type": "tabs",
         "children": [
           {
-            "id": "cbaf044e1d9f6a27",
+            "id": "bfbc9ce43e46e572",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc Ideas.md",
+                "file": "Braitenberg Vehicles.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "55fcc98d295d2bca",
+            "id": "8f0bd9520ae5a3bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/2022-10-18.md",
+                "file": "TEB.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "16785e311ce89dd1",
+            "id": "7c2adeee88b467f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning algorithms in python.md",
+                "file": "RTABMap.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d6b30f2b99c4c1e2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f983939769cb9e0d",
+            "id": "7f1fd53bbb336eb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/2022-10-18.md",
+                "file": "Supermarket Robot Project.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a7f0f415372db3ac",
+            "id": "f496abef5791ea60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheapo Robot Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "757b13a0b25d94b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kicad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1663de77ffc570c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/2022-10-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcbb0aca9a1afb85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/2022-10-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d572f83c1e4a103",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/2022-10-21.md",
+                "file": "Webots.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#AT",
+                "query": "tag:#Webots",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/2022-10-21.md",
+                "file": "Supermarket Robot Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/2022-10-21.md",
+                "file": "Supermarket Robot Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/2022-10-21.md"
+                "file": "Supermarket Robot Project.md"
               }
             }
           }
@@ -274,17 +218,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2d572f83c1e4a103",
+  "active": "7f1fd53bbb336eb0",
   "lastOpenFiles": [
-    "Day Planners/2022-10-18.md",
-    "Day Planners/2022-10-20.md",
-    "Arduino OTA.md",
-    "3d Printing.md",
-    "DaVinci Resolve.md",
-    "Inkscape.md",
-    "Kicad.md",
     "Cheapo Robot Project.md",
-    "Day Planners/Day Planner-20221017.md",
-    "Projects.md"
+    "RTABMap.md",
+    "Supermarket Robot Project.md",
+    "Braitenberg Vehicles.md",
+    "Misc Ideas.md",
+    "Untitled 1.md",
+    "Vim.md",
+    "Untitled.md",
+    "MoveIt with BioIKKinematics.md",
+    "TEB.md"
   ]
 }
