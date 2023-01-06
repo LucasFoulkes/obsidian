@@ -1,7 +1,6 @@
 ## Objective
 Create something like what is already in the market.
 ### Research
-- [x] Examples of supermarket robots 
 https://www.pudurobotics.com/
 - a system of multiple robots
 - consist in a base an exchangable bodies with diferent functions
@@ -14,7 +13,7 @@ https://www.simberobotics.com/
 - out stock management
 - Intelligent inventory management
 - shelf health
-- planogram confiance
+- planogram compliance
 - product compliance
 - inventory tracking
 https://www.greenzie.com/
@@ -29,6 +28,9 @@ https://www.dustyrobotics.com/
 https://zoox.com/
 - really nice website
 - self-driving
+- https://www.home.zippedi.com/
 
 ### Outline 
-- [ ] Define uses and functions
+- Cleaning
+- Greeting 
+- Guiding . Is it helping the costumer reach its product directly good for bussines?

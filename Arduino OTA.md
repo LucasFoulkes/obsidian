@@ -61,7 +61,7 @@ AT+INIT
 - simple recieving data 
 1. fucking ubuntu binding
 	1.  find out the mac address of the bluetooth device
-	2. use ``` sudo rfcomm 0 [MAC ADDRESS] 1```
+	2. use ``` sudo rfcomm bind 0 [MAC ADDRESS] 1```
 	3. use cutecom to connect it, is a bit hacky honestly
 - simple data comunication did fucking work somehow yay
 ```
@@ -70,3 +70,6 @@ AT+INIT
 - ### Esp32
 - ### Esp8266
 ## Using NRF24L01
+```
+- to connect to the bluettooth you need to use cutecom and is finiky
+- 

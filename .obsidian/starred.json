@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Braitenberg Vehicles",
+      "path": "Braitenberg Vehicles.md"
+    },
+    {
+      "type": "file",
+      "title": "Misc Ideas",
+      "path": "Misc Ideas.md"
+    }
+  ]
+}

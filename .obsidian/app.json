@@ -1,5 +1,9 @@
 {
   "showLineNumber": false,
   "vimMode": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheckLanguages": [
+    "es-419",
+    "en-GB"
+  ]
 }
