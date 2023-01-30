@@ -7,10 +7,12 @@
 - Addon for Obsidan to use diferent colors 
 - Make links with date, like posits or notifications
 - Addon for Obsidian gpt3 helper 
-## Addon/Pluggin for Obsidian for cloud storage backup 
-- Obsidian Github kinda does this. 
-- ==Uploading and updating should be automated==  
-## Cloud computer with gpu
+- a map maker for pygame using AI
+- Addon/Pluggin for Obsidian for cloud storage backup 
+	- Obsidian Github kinda does this. 
+	- ==Uploading and updating should be automated==  
+- Cloud computer with gpu
+
 # Hardware 
 ### Early Lanslide Detection 
 https://hackaday.io/project/187007-diy-landslide-warning-system
@@ -18,5 +20,5 @@ https://hackaday.io/project/187007-diy-landslide-warning-system
 - Portable soup temperature sensor, maybe it powers thru the heat,  maybe contactless? using the sensor they use for the covid temperature guns.
 - sparring robot
 - roboquad clone
-### Camera Robot , like what you would have in a tv news set
-
+- Camera Robot , like what you would have in a tv news set
+- Smartphone holder robot
